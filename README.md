@@ -3,15 +3,39 @@ Welcome to my data analytics projects repository! Here, you'll find a collection
 
 Introduction
 
-In this repository, I share my passion for data analytics and visualization. Whether you're a fellow data enthusiast, a potential collaborator, or just curious about what I've been working on, you'll find something of interest here. Feel free to explore the projects and reach out if you have any questions or feedback.
+In this repositor<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/commit/19b1c766e8900fcac0cb4633ea0946a3df6a797c</string>
+</dict>
+</plist>
+y, I share my passion for data analytics and visualization. Whether you're a fellow data enthusiast, a potential collaborator, or just curious about what I've been working on, you'll find something of interest here. Feel free to explore the projects and reach out if you have any questions or feedback.
 
 Projects
 
 Excel Projects
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/commit/19b1c766e8900fcac0cb4633ea0946a3df6a797c</string>
+</dict>
+</plist>
 
-Q2 2021 WIDGET INC. OVERVIEW
-Electronic Sales Review for the year 2014 - 2018
-SQL Projects
+[Uploading Q2 2021 W<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://github.com/Godwin-Rukki/Godwin-Data-Analytics-Portfolio/blob/Projects/EXCEL%20PROJECT.xlsx</string>
+</dict>
+</plist>
+
+IDGET INC. OVERVIEW.webloc…]()
+
 
 Maven Analytics Northwind Traders SQL.
 KEVIN COOKIE COMPANY DATASET
